@@ -1,0 +1,20 @@
+.txt-rotate {
+    display: inline-block;
+    text-align: left;
+}
+
+.smaller-text {
+    font-size: 0.7em;
+}
+
+.highlighted-text {
+    font-size: 0.6em;
+    font-weight: bold;
+    color: #ff5722;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background: rgb(27, 27, 27);
+}

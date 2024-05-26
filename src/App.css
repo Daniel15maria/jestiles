@@ -76,6 +76,11 @@ p.danger {
   color: red;
 }
 
+section,
+.arrange {
+  height: 100vh
+}
+
 /************ Navbar Css ************/
 nav.navbar {
   padding: 18px 0;
